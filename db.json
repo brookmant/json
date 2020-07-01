@@ -1,12 +1,10 @@
 {
-	"state": {
-		formId: "1",
-			campaignId: "23",
-			product: "test",
-			subProduct: "colors",
-			source: "test.com",
-
-			firstName: "This name",
-			lastName: "This Last Name" ,
-			email: "email@gmail.com"
+   "formId":"1",
+   "campaignId":"23",
+   "product":"test",
+   "subProduct":"colors",
+   "source":"test.com",
+   "firstName":"This name",
+   "lastName":"This Last Name",
+   "email":"email@gmail.com"
 }
