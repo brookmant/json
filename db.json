@@ -1,8 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "form": [
+    { 
+    "formId": "test-formId",
+		"campaignId": "test-campaignId",
+    "email": "",
+     "firstName": "Tasha",
+    "formId": "test-formId",
+    "lastName": "Mayes",
+		"product": "test-product",
+		"source": "test-source",
+     "subProduct": "test-subProduct",
+		 },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
