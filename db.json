@@ -1,16 +1,6 @@
 {
   "form": [
-    { 
-    "formId": "test-formId",
-    "campaignId": "test-campaignId",
-    "email": "",
-    "firstName": "Tasha",
-    "formId": "test-formId",
-    "lastName": "Mayes",
-    "product": "test-product",
-    "source": "test-source",
-    "subProduct": "test-subProduct",
-		 },
+    { "formId": "", "campaignId": "test-campaignId", "email": "a", "firstName": "a", "formId": "test-formId", "lastName": "","product": "1","source": "1","subProduct": "1",},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
